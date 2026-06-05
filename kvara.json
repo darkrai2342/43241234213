@@ -7,14 +7,14 @@
 "update_content":"You cant update if you are using modded version. Please use official version to support developer.
 \n<br></br>\n
 <b>Release Info</b>
-\n<br>- Version: 4.7.0</br>\n
+\n<br>- Version: 1.0.0</br>\n
 \n<br>- Size: 14.3MB</br>\n
 \n<br></br>\n
 \n<br><b>Change logs</b></br>\n
 \n<br>- Fix crash.</br>\n
 \n<br>- Add more links.</br>\n",  
-"update_build":"284",  
-"update_version":"4.7.0",  
+"update_build":"1",  
+"update_version":"1.0.0",  
 "update_link":"https://github.com/onedrone892/lololo/releases/download/4.7.0/4.7.0.apk",
 "pkg_uninstall":"com.busydev.audiocutter",
 "pkg_uninstall_content":"Please uninstall old version. You can restart app to get your watchlist back.",
@@ -22,7 +22,7 @@
 "text_link":"http://google.com",
 "text_content":"This application is no longer supported or updated.",
 "text_title":"App Discontinued",
-"text_type":"link",
+"text_type":"hide",
 "text_id":"71446",
 "custom_fullads_photo":"https://i.imgur.com/FpMvTE0.png",
 "custom_fullads_link":"https://www.jdoqocy.com/click-100278415-14482593",
