@@ -7,15 +7,15 @@
 "update_content":"You cant update if you are using modded version. Please use official version to support developer.
 \n<br></br>\n
 <b>Release Info</b>
-\n<br>- Version: 1.0.3</br>\n
+\n<br>- Version: 1.0.4</br>\n
 \n<br>- Size: 14.3MB</br>\n
 \n<br></br>\n
 \n<br><b>Change logs</b></br>\n
 \n<br>- Fix crash.</br>\n
 \n<br>- Add more links.</br>\n",  
-"update_build":"3",  
-"update_version":"1.0.3",  
-"update_link":"https://github.com/onedrone892/22321/releases/download/1.0.3/1.0.3cni.apk",
+"update_build":"4",  
+"update_version":"1.0.4",  
+"update_link":"https://github.com/onedrone892/22321/releases/download/1.0.4/1.0.4.apk",
 "pkg_uninstall":"com.bweather.forecast",
 "pkg_uninstall_content":"Please uninstall old version. You can restart app to get your watchlist back.",
 "tmdb_key":"5b458cad0b474d21129c717626038657",
